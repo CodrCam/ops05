@@ -1,5 +1,10 @@
 #!/bin/bash
 
+#Script: Ops 201 Class 05 Ops Challenge Solution
+#Author: Cameron Griffin
+#Date of latest revision: 11-14-2022
+#Purpose: Kill off a process
+
 # displays the program PIDs
 ps -e
 # Prints a Quetion for input
